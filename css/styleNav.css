@@ -1,0 +1,73 @@
+
+html {
+font-family: 'Source Sans Pro', sans-serif;
+background-color: #00003E;
+}
+
+
+body{
+margin:0;
+}
+
+
+.container{/*contient le menu navbar*/
+display: flex;
+flex-wrap: nowrap;
+border-radius: 3px;
+background-color: #F1DFDE;
+letter-spacing: 3px;
+word-spacing: 70px;
+height: 17%;
+padding-top:10px;
+    /*transition: all 1s ease;*/
+}
+
+
+.menu > ul > li{/*liens menu navigation*/
+list-style: none;
+display:inline-block;
+text-align:center;
+padding-top:5px;
+}
+
+
+
+#branName{/*Nom compagnie*/
+position: absolute;
+height: auto;
+width: 22%;
+padding-top: 100px;
+padding-left: 10px;
+padding-bottom: 0px;
+}
+
+
+#brandName:hover{
+letter-spacing: 6px;
+box-shadow: 10px 5px 5px red;
+}
+
+
+.logo{/*Logo compagnie*/
+position:absolute;
+right:0;
+width :14%;
+height: auto;
+padding-top:-60px;
+}
+
+.menu ul li a{
+text-decoration:none;
+color:#00003E;
+}
+
+
+
+.menu ul li a:hover{
+font-style: bold;
+border:1px solid #cdcdcd ;
+border-radius:2px;
+box-shadow: 48px -8px teal;
+color:red;
+}
+

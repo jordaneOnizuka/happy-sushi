@@ -1,0 +1,50 @@
+.dropdownmenu {
+ background-color: #666 ;
+width: 140px;
+
+}
+
+
+
+.dropdownmenu, .dropdownmenu ul {
+
+/* Pour le menu principal  et*//* Pour les sous-menus */
+     list-style-type: none;
+     margin: 0px;
+     padding: 0px;
+
+}
+
+.dropdownmenu ul{
+display:none;
+
+}
+
+
+.dropdownmenu a {
+    display: block;
+    width: 120px;
+    height: 200px;
+    line-height: 30px;
+    padding: 3px 10px;
+    text-align: center;
+}
+
+
+.dropdownmenu li:hover div {
+    display:block;
+    position: absolute;
+    top: 36px;
+    left: 56px;
+    z-index: 100;
+}
+
+
+.cali, .maki, .sashimis, .desserts, .boissons, .chirashi{
+
+display:none;
+
+}
+
+
+

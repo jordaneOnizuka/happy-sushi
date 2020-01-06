@@ -1,0 +1,46 @@
+
+/*Partie Services*/
+
+body > div {
+
+    border:10px solid #cdcdcd ;
+    width:70%;
+    height:80%;
+    padding-left:5px;
+    padding-right:5px;
+    margin-top:0%;
+    background-color: teal;
+    margin-left: 0px;
+    margin-right: auto;
+    color:white;
+}
+
+
+
+body >div > h3{
+
+background-color: red;
+width:10%
+}
+
+
+.carrousel > img{
+
+    min-height:100%;
+    width:100%;
+    padding-left:0px;
+    padding-right:0px;
+    margin-top:15%;
+    margin-bottom:15%;
+    margin-left:0px;
+    margin-right:0px;
+
+}
+
+
+.sabaidi{
+
+color:white;
+background-color:red;
+opacity: 0.8;
+}

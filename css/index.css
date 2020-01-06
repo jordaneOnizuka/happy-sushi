@@ -1,0 +1,53 @@
+
+p,h4{
+padding-left:5px;
+padding-right: 5px;
+}
+
+
+.photoAmbiance{
+width :50%;
+height:auto;
+}
+
+.block_1{
+padding-top: 0px;
+margin-top: 5%;
+margin-left:25px;
+width:75%;
+height:auto;
+color: white;
+border:30px solid #cdcdcd ;
+background-color: teal;
+text-align: justify;
+
+}
+
+
+
+.block_2{
+margin-top: 120px;
+margin-left: 43.5%;
+background-color:teal;
+border:30px solid #cdcdcd ;
+color:white;
+width:50%;
+height: auto;
+text-align: justify;
+margin-bottom: 8%;
+
+}
+
+
+.photoMenu{
+width :30%;
+height:auto;
+}
+
+.decoImg{
+padding-top:60px;
+width:auto;
+}
+
+
+
